@@ -1,13 +1,108 @@
-body {
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@1,300&display=swap");
+
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  font-family: 'Mulish', sans-serif;
+  box-sizing: border-box;
+}
+.navbar{
+  background-color: #fff !important;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navbar-brand{
+  font-size: 1.5rem !important;
+  color: #565387 !important;
+  font-weight: bold !important;
+}
+
+.navbar a{
+  font-size: 1.3rem !important;
+  text-transform: capitalize;
+}
+
+.menu_active{
+  font-weight: bold;
+  border-bottom: 1px solid #565387;
+}
+.navbar a:hover{
+  color: #5f58da !important;
+}
+
+.btn-get-started{
+  border: 1px solid #59a0ec;
+  border-radius: 1.5rem;
+  padding: 0.5rem;
+  text-decoration: none;
+  letter-spacing: 1px;
+  transition: 0.4s;
+}
+.btn-get-started:hover{
+  text-decoration: none;
+  background-color: #59a0ec;
+  color: white;
+}
+.img-fluid{
+  width: 30rem;
+}
+
+.brand-name{
+  color: #59a0ec;
+}
+.navbar-nav{
+  margin-left: auto;
+}
+
+#header{
+  width: 100%;
+  height: 80vh;
+  margin-top: 30px;
+}
+#header h1{
+  margin: 0 0 10px 0;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: black;
+}
+#header h2{
+  font-size: 1.2rem;
+}
+.header-img{
+  text-align: right;
+}
+
+#header .animated{
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+@keyframes up-down{
+  0%{
+    transform:translateY(10px);
+  }
+  100%{
+    transform:translateY(-10px);
+  }
+}
+
+.card-img-top{
+  height: 15rem;
+}
+
+.card-title{
+  font-weight: bold !important;
+}
+.ourService{
+  font-weight: bolder;
+}
+.submitButton{
+  font-weight: bold;
+}
+.submitButtonForm{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.textArea{
+  resize: none;
 }
