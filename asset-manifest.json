@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/reactApp-BhartiTechnicals/static/css/main.263fc5b4.chunk.css",
+    "main.js": "/reactApp-BhartiTechnicals/static/js/main.6e33f094.chunk.js",
+    "main.js.map": "/reactApp-BhartiTechnicals/static/js/main.6e33f094.chunk.js.map",
+    "runtime-main.js": "/reactApp-BhartiTechnicals/static/js/runtime-main.f1bd6a46.js",
+    "runtime-main.js.map": "/reactApp-BhartiTechnicals/static/js/runtime-main.f1bd6a46.js.map",
+    "static/css/2.65af8127.chunk.css": "/reactApp-BhartiTechnicals/static/css/2.65af8127.chunk.css",
+    "static/js/2.746bd010.chunk.js": "/reactApp-BhartiTechnicals/static/js/2.746bd010.chunk.js",
+    "static/js/2.746bd010.chunk.js.map": "/reactApp-BhartiTechnicals/static/js/2.746bd010.chunk.js.map",
+    "static/js/3.8f17364e.chunk.js": "/reactApp-BhartiTechnicals/static/js/3.8f17364e.chunk.js",
+    "static/js/3.8f17364e.chunk.js.map": "/reactApp-BhartiTechnicals/static/js/3.8f17364e.chunk.js.map",
+    "index.html": "/reactApp-BhartiTechnicals/index.html",
+    "static/css/2.65af8127.chunk.css.map": "/reactApp-BhartiTechnicals/static/css/2.65af8127.chunk.css.map",
+    "static/css/main.263fc5b4.chunk.css.map": "/reactApp-BhartiTechnicals/static/css/main.263fc5b4.chunk.css.map",
+    "static/js/2.746bd010.chunk.js.LICENSE.txt": "/reactApp-BhartiTechnicals/static/js/2.746bd010.chunk.js.LICENSE.txt",
+    "static/media/android.066c3dda.jpg": "/reactApp-BhartiTechnicals/static/media/android.066c3dda.jpg",
+    "static/media/app.d491b82e.jpg": "/reactApp-BhartiTechnicals/static/media/app.d491b82e.jpg",
+    "static/media/digital.a2f763ea.png": "/reactApp-BhartiTechnicals/static/media/digital.a2f763ea.png",
+    "static/media/laptop.69ad4fab.png": "/reactApp-BhartiTechnicals/static/media/laptop.69ad4fab.png",
+    "static/media/man.6bc50b01.png": "/reactApp-BhartiTechnicals/static/media/man.6bc50b01.png",
+    "static/media/marketing.d192ee6d.png": "/reactApp-BhartiTechnicals/static/media/marketing.d192ee6d.png",
+    "static/media/software.b9b63ac6.jpg": "/reactApp-BhartiTechnicals/static/media/software.b9b63ac6.jpg",
+    "static/media/web.41a3d8cf.png": "/reactApp-BhartiTechnicals/static/media/web.41a3d8cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1bd6a46.js",
+    "static/css/2.65af8127.chunk.css",
+    "static/js/2.746bd010.chunk.js",
+    "static/css/main.263fc5b4.chunk.css",
+    "static/js/main.6e33f094.chunk.js"
+  ]
+}
